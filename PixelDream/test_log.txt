@@ -1,0 +1,70 @@
+app.js:25 ===== THÔNG TIN NHÂN VẬT =====
+app.js:26 Tên: Arthur
+app.js:27 HP: 1000
+app.js:28 Sát thương: 50
+app.js:25 ===== THÔNG TIN NHÂN VẬT =====
+app.js:26 Tên: Valhein
+app.js:27 HP: 800
+app.js:28 Sát thương: 80
+app.js:39 ===== BẮT ĐẦU TRẬN ĐÁNH =====
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 750 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 920 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 700 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 840 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 650 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 760 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 600 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 680 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 550 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 600 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 500 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 520 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 450 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 440 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 400 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 360 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 350 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 280 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 300 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 200 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 250 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 120 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 200 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 40 HP
+app.js:19 Arthur tấn công Valhein gây 50 sát thương
+app.js:21 Valhein còn 150 HP
+app.js:19 Valhein tấn công Arthur gây 80 sát thương
+app.js:21 Arthur còn 0 HP
+app.js:25 ===== THÔNG TIN NHÂN VẬT =====
+app.js:26 Tên: Arthur
+app.js:27 HP: 0
+app.js:28 Sát thương: 50
+app.js:25 ===== THÔNG TIN NHÂN VẬT =====
+app.js:26 Tên: Valhein
+app.js:27 HP: 150
+app.js:28 Sát thương: 80
+app.js:46 ===== TRẬN ĐÁNH KẾT THÚC =====

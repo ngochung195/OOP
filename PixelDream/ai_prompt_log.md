@@ -1,0 +1,1 @@
+Prompt 1: Kiểm tra code đã chuẩn OOP và đã tối ưu chưa?

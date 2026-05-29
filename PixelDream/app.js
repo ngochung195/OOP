@@ -26,19 +26,21 @@ class Hero {
         console.log(`Tên: ${this.name}`);
         console.log(`HP: ${this.hp}`);
         console.log(`Sát thương: ${this.damage}`);
-        console.log("==============================\n");
     }
 }
 
-let arthur = new Hero("Arthur", 10000, 50);
+let arthur = new Hero("Arthur", 1000, 50);
 
 let valhein = new Hero("Valhein", 800, 80);
 
 arthur.showInfo();
 valhein.showInfo();
 
-arthur.attack(valhein);
-valhein.attack(arthur);
-
+console.log("===== BẮT ĐẦU TRẬN ĐÁNH =====")
+while (arthur.hp > 0 && valhein.hp > 0) {
+    arthur.attack(valhein);
+    valhein.attack(arthur);
+}
 arthur.showInfo();
 valhein.showInfo();
+console.log("===== TRẬN ĐÁNH KẾT THÚC =====")
