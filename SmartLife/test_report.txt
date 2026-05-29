@@ -1,0 +1,6 @@
+smart_device.js:18 Thiết bị Đèn phòng khách đang ở trạng thái: TẮT
+smart_device.js:18 Thiết bị Điều hòa phòng ngủ đang ở trạng thái: TẮT
+smart_device.js:18 Thiết bị Quạt nhà bếp đang ở trạng thái: TẮT
+smart_device.js:32 SmartDevice {deviceId: 1, deviceName: 'Đèn phòng khách', type: 'Light', isOn: false, battery: 100}
+smart_device.js:33 SmartDevice {deviceId: 2, deviceName: 'Điều hòa phòng ngủ', type: 'AirConditioner', isOn: false, battery: 100}
+smart_device.js:34 SmartDevice {deviceId: 3, deviceName: 'Quạt nhà bếp', type: 'Fan', isOn: false, battery: 100}
