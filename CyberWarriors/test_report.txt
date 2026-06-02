@@ -1,0 +1,3 @@
+character_init.js:15 Character {name: 'Arthur', type: 'Chiến binh', level: 1, hp: 100, isLive: true}
+character_init.js:16 Character {name: 'Gandalf', type: 'Pháp sư', level: 1, hp: 100, isLive: true}
+character_init.js:17 Character {name: 'Ẩn danh', type: 'Sát thủ', level: 1, hp: 100, isLive: true}
