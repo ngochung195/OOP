@@ -1,0 +1,35 @@
+techride_oop.js:31 --- Thông tin và doanh thu ---
+techride_oop.js:50 
+=================== KIỂM TRA 10 ĐỐI TƯỢNG ĐƯỢC TẠO TỪ CLASS ===================
+techride_oop.js:58 Xe số 1: [Mã: V04] | Tài xế: Phạm Văn D | Loại xe: Motorbike
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 5 km => Tính tiền: 25,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 2: [Mã: V05] | Tài xế: Hoàng Thị E | Loại xe: Car
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 12 km => Tính tiền: 144,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 3: [Mã: V06] | Tài xế: Nguyễn Văn F | Loại xe: Truck
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 50 km => Tính tiền: 1,000,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:11 Phương tiện đang bảo trì!
+techride_oop.js:58 Xe số 4: [Mã: V07] | Tài xế: Trần Thị G | Loại xe: Motorbike
+techride_oop.js:59       ↳ Trạng thái: Maintenance | Chạy: 8 km => Tính tiền: Không thể tính tiền (Bảo trì)
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 5: [Mã: V08] | Tài xế: Phan Văn H | Loại xe: Car
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 25 km => Tính tiền: 300,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 6: [Mã: V09] | Tài xế: Vũ Thị I | Loại xe: Truck
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 100 km => Tính tiền: 2,000,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 7: [Mã: V10] | Tài xế: Đặng Văn K | Loại xe: Motorbike
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 15 km => Tính tiền: 75,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:11 Phương tiện đang bảo trì!
+techride_oop.js:58 Xe số 8: [Mã: V11] | Tài xế: Bùi Thị L | Loại xe: Car
+techride_oop.js:59       ↳ Trạng thái: Maintenance | Chạy: 3.5 km => Tính tiền: Không thể tính tiền (Bảo trì)
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 9: [Mã: V12] | Tài xế: Đỗ Văn M | Loại xe: Truck
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 75 km => Tính tiền: 1,500,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
+techride_oop.js:58 Xe số 10: [Mã: V13] | Tài xế: Hồ Thị N | Loại xe: Motorbike
+techride_oop.js:59       ↳ Trạng thái: Active | Chạy: 22 km => Tính tiền: 110,000 VND
+techride_oop.js:60 --------------------------------------------------------------------------------
