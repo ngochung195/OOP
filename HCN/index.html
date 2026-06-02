@@ -1,0 +1,44 @@
+<body>
+    <h2> Vẽ hình chữ nhật</h2>
+    <canvas id="ve" width="500" height="400"></canvas>
+    <script>
+        class Rectangle {
+            constructor(length, width) {
+                this.length = length;
+                this.width = width;
+            }
+
+            chuVi() {
+                return (this.length + this.width) * 2;
+            }
+
+            dienTich() {
+                return this.length * this.width;
+            }
+
+            veHinh(canvasId) {
+                const canvas = document.getElementById(canvasId);
+                if (!canvas) {
+                    console.error("Không tìm thấy thẻ canvas với id: " + canvasId);
+                    return;
+                }
+
+                const ctx = canvas.getContext("2d");
+
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                const x = 50;
+                const y = 50;
+
+                ctx.fillStyle = "#4CAF50";
+                ctx.fillRect(x, y, this.width, this.length)
+            }
+        }
+
+        let hcn = new Rectangle(500, 400);
+        alert("Chu vi hình chữ nhật: " + hcn.chuVi());
+        alert("Diện tích hình chữ nhật: " + hcn.dienTich());
+
+        hcn.veHinh("ve");
+    </script>
+</body>
