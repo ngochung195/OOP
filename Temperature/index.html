@@ -1,0 +1,35 @@
+<body>
+    <script>
+        class Temperature {
+            constructor(celsius = 0) {
+                this.celsius = celsius;
+            }
+
+            get celsius() {
+                return this._celsius;
+            }
+
+            set celsius(value) {
+                if (value < -273) {
+                    throw new Error("Nhiệt độ không thể thấp hơn -273 độ C.");
+                }
+                this._celsius = value;
+            }
+
+            toFahrenheit() {
+                return (this.celsius * 1.8) + 32;
+            }
+
+            toKelvin() {
+                return this.celsius + 273.15;
+            }
+        }
+
+        const myTemp = new Temperature(25);
+
+        console.log("KẾT QUẢ CHUYỂN ĐỔI NHIỆT ĐỘ");
+        console.log(`Nhiệt độ ban đầu: ${myTemp.celsius}C`);
+        console.log(`Nhiệt độ tương ứng theo độ F: ${myTemp.toFahrenheit()}F`);
+        console.log(`Nhiệt độ tương ứng theo độ K: ${myTemp.toKelvin()}K`);
+    </script>
+</body>
