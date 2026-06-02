@@ -1,0 +1,33 @@
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D01 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D02 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D03 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D04 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D05 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D06 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D07 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D08 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D09 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D10 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D11 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D12 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D13 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D14 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D15 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D16 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D17 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D18 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D19 vào mảng quản lý.
+fleet_manager.js:26 [HỆ THỐNG]: Đã thêm Drone D20 vào mảng quản lý.
+fleet_manager.js:66 --- DANH SÁCH 20 DRONE VỪA ĐƯỢC TỰ ĐỘNG SINH RA ---
+fleet_manager.js:67 (index)idbatterystatus(index)idbatterystatus0'D01'100'available'1'D02'15'charging'2'D03'80'delivering'3'D01'11'available'4'D02'98'maintenance'5'D03'90'maintenance'6'D04'69'charging'7'D05'37'charging'8'D06'41'delivering'9'D07'32'maintenance'10'D08'40'available'11'D09'57'charging'12'D10'56'available'13'D11'50'delivering'14'D12'49'charging'15'D13'58'charging'16'D14'60'charging'17'D15'34'delivering'18'D16'72'delivering'19'D17'40'delivering'20'D18'10'delivering'21'D19'83'maintenance'22'D20'64'maintenance'Array(23)
+fleet_manager.js:69 
+--- THỬ NGHIỆM ĐIỀU PHỐI 3 ĐƠN HÀNG LIÊN TIẾP ---
+fleet_manager.js:33 [ĐIỀU PHỐI]: Tìm thấy Drone trống là D01. Thao tác đổi trạng thái...
+fleet_manager.js:14 [DRONE D01]: Đã nhận đơn và cất cánh!
+fleet_manager.js:33 [ĐIỀU PHỐI]: Tìm thấy Drone trống là D08. Thao tác đổi trạng thái...
+fleet_manager.js:14 [DRONE D08]: Đã nhận đơn và cất cánh!
+fleet_manager.js:33 [ĐIỀU PHỐI]: Tìm thấy Drone trống là D10. Thao tác đổi trạng thái...
+fleet_manager.js:14 [DRONE D10]: Đã nhận đơn và cất cánh!
+fleet_manager.js:74 
+--- DANH SÁCH PHI ĐỘI SAU KHI ĐIỀU PHỐI ---
+fleet_manager.js:75 (index)idbatterystatus(index)idbatterystatus0'D01'100'delivering'1'D02'15'charging'2'D03'80'delivering'3'D01'11'available'4'D02'98'maintenance'5'D03'90'maintenance'6'D04'69'charging'7'D05'37'charging'8'D06'41'delivering'9'D07'32'maintenance'10'D08'40'delivering'11'D09'57'charging'12'D10'56'delivering'13'D11'50'delivering'14'D12'49'charging'15'D13'58'charging'16'D14'60'charging'17'D15'34'delivering'18'D16'72'delivering'19'D17'40'delivering'20'D18'10'delivering'21'D19'83'maintenance'22'D20'64'maintenance'Array(23)
