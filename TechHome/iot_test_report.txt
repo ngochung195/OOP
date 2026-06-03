@@ -1,0 +1,26 @@
+smart_home_oop.js:38 [S01] Đã kết nối thành công với thiết bị: L01
+smart_home_oop.js:42 
+[S01] CẢNH BÁO: Phát hiện có chuyển động!
+smart_home_oop.js:14 [L01] Đèn SmartLight đã BẬT.
+index.html:31 Live reload enabled.
+
+
+smart_home_oop.js:70 --- BƯỚC 1: KHỞI TẠO THIẾT BỊ ---
+smart_home_oop.js:77 
+--- BƯỚC 2: LIÊN KẾT SENSOR 1 VỚI ĐÈN 1 ---
+smart_home_oop.js:38 [SENSOR_01] Đã kết nối thành công với thiết bị: LIGHT_01
+smart_home_oop.js:42 
+[SENSOR_01] CẢNH BÁO: Phát hiện có chuyển động!
+smart_home_oop.js:14 [LIGHT_01] Đèn SmartLight đã BẬT.
+smart_home_oop.js:84 > Kiểm tra trạng thái Light 1 (isOn): true
+smart_home_oop.js:85 > Kiểm tra trạng thái Light 2 (isOn): false
+smart_home_oop.js:89 
+--- BƯỚC 3: ĐỔI LIÊN KẾT SANG ĐÈN 2 ---
+smart_home_oop.js:38 [SENSOR_01] Đã kết nối thành công với thiết bị: LIGHT_02
+smart_home_oop.js:23 [LIGHT_01] Đèn SmartLight đã TẮT.
+smart_home_oop.js:42 
+[SENSOR_01] CẢNH BÁO: Phát hiện có chuyển động!
+smart_home_oop.js:14 [LIGHT_02] Đèn SmartLight đã BẬT.
+smart_home_oop.js:100 > Kiểm tra trạng thái Light 1 (isOn): false
+smart_home_oop.js:101 > Kiểm tra trạng thái Light 2 (isOn): true
+index.html:31 Live reload enabled.
