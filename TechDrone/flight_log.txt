@@ -1,0 +1,26 @@
+drone_controller.js:85 === KHỞI TẠO DRONE THÀNH CÔNG ===
+drone_controller.js:86 Trạng thái đầu: {id: 'DRN-99', altitude: '0m', battery: '100.0%'}
+drone_controller.js:60 
+--- Lệnh: Bay lên 50m ---
+drone_controller.js:66 
+--- Lệnh: Bay xuống 20m ---
+drone_controller.js:91 Trạng thái sau khi bay: {id: 'DRN-99', altitude: '30m', battery: '65.0%'}
+drone_controller.js:94 
+=== BẮT ĐẦU CHIẾN DỊCH HACK DRONE ===
+drone_controller.js:101 [HACK 1] Thử gán biến công khai 'altitude = 1000'...
+drone_controller.js:102 -> Kết quả thực tế của Drone: {id: 'DRN-99', altitude: '30m', battery: '65.0%'}
+drone_controller.js:60 
+--- Lệnh: Bay lên 200m ---
+drone_controller.js:34 [Hạn chế] Không thể bay quá trần an toàn 120m. Tự động điều chỉnh về 120m.
+changeAltitude @ drone_controller.js:34
+flyUp @ drone_controller.js:61
+(anonymous) @ drone_controller.js:109
+drone_controller.js:110 -> Trạng thái sau khi hack bay quá trần: {id: 'DRN-99', altitude: '120m', battery: '20.0%'}
+drone_controller.js:60 
+--- Lệnh: Bay lên mười métm ---
+drone_controller.js:27 Độ cao không hợp lệ! Từ chối nhận lệnh bay.
+changeAltitude @ drone_controller.js:27
+flyUp @ drone_controller.js:61
+(anonymous) @ drone_controller.js:114
+drone_controller.js:115 -> Trạng thái sau khi truyền chữ vào hàm: {id: 'DRN-99', altitude: '120m', battery: '20.0%'}
+
