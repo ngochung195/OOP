@@ -1,0 +1,29 @@
+secure_wallet.js:15 Nạp thành công: +1000. Số dư hiện tại: 1000
+secure_wallet.js:44 
+--- BẮT ĐẦU TẤN CÔNG HÀM WITHDRAW() ---
+secure_wallet.js:47 
+[Kịch bản 1] Rút -Infinity:
+secure_wallet.js:21 Giao dịch thất bại: Số tiền rút không hợp lệ.
+withdraw @ secure_wallet.js:21
+(anonymous) @ secure_wallet.js:48
+secure_wallet.js:51 
+[Kịch bản 2] Rút NaN:
+secure_wallet.js:21 Giao dịch thất bại: Số tiền rút không hợp lệ.
+withdraw @ secure_wallet.js:21
+(anonymous) @ secure_wallet.js:52
+secure_wallet.js:55 
+[Kịch bản 3] Rút số thập phân lẻ (0.1):
+secure_wallet.js:31 Rút thành công: -0.1. Số dư hiện tại: 999.9
+secure_wallet.js:59 
+[Kịch bản 4] Rút mảng [500]:
+secure_wallet.js:21 Giao dịch thất bại: Số tiền rút không hợp lệ.
+withdraw @ secure_wallet.js:21
+(anonymous) @ secure_wallet.js:60
+secure_wallet.js:63 
+[Kịch bản 5] Rút số -0:
+secure_wallet.js:21 Giao dịch thất bại: Số tiền rút không hợp lệ.
+withdraw @ secure_wallet.js:21
+(anonymous) @ secure_wallet.js:64
+secure_wallet.js:66 
+--- KẾT QUẢ CUỐI CÙNG ---
+secure_wallet.js:67 Số dư còn lại trong ví: 999.9
