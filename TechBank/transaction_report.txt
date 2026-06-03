@@ -1,0 +1,20 @@
+bank_interaction.js:39 Yêu cầu chuyển tiền từ Alice đến Bob số tiền: 300
+bank_interaction.js:34 Rút thành công: -300. Số dư hiện tại: 700
+bank_interaction.js:18 Nạp thành công: +300. Số dư hiện tại: 800
+bank_interaction.js:52 Chuyển tiền thành công từ Alice đến Bob số tiền: 300
+bank_interaction.js:39 Yêu cầu chuyển tiền từ Bob đến Charlie số tiền: 400
+bank_interaction.js:34 Rút thành công: -400. Số dư hiện tại: 400
+bank_interaction.js:18 Nạp thành công: +400. Số dư hiện tại: 600
+bank_interaction.js:52 Chuyển tiền thành công từ Bob đến Charlie số tiền: 400
+bank_interaction.js:39 Yêu cầu chuyển tiền từ Charlie đến Alice số tiền: 700
+bank_interaction.js:29 Giao dịch thất bại: Số dư tài khoản không đủ.
+withdraw @ bank_interaction.js:29
+transferTo @ bank_interaction.js:46
+(anonymous) @ bank_interaction.js:81
+bank_interaction.js:61 Chuyển tiền thất bại từ Charlie đến Alice
+bank_interaction.js:39 Yêu cầu chuyển tiền từ Alice đến Bob số tiền: -50
+bank_interaction.js:24 Giao dịch thất bại: Số tiền rút không hợp lệ.
+withdraw @ bank_interaction.js:24
+transferTo @ bank_interaction.js:46
+(anonymous) @ bank_interaction.js:84
+bank_interaction.js:61 Chuyển tiền thất bại từ Alice đến Bob
