@@ -1,0 +1,36 @@
+order_logic.js:46 --- KỊCH BẢN 1: Khởi tạo đơn hàng ban đầu (Giảm giá 10%) ---
+order_logic.js:57 Số tiền thanh toán cuối cùng: 1188000 VND
+order_logic.js:64 
+--- KỊCH BẢN 2: Khách hàng mua thêm Tai nghe (400,000 VND) ---
+order_logic.js:69 Số tiền thanh toán sau khi thêm tai nghe: 1584000 VND
+order_logic.js:80 
+--- KỊCH BẢN 3: Áp dụng mã giảm giá VIP (Giảm 20%) ---
+order_logic.js:86 Số tiền thanh toán sau khi tăng giảm giá lên 20%: 1408000 VND
+order_logic.js:97 
+--- KỊCH BẢN 4: Khách hủy không mua Chuột không dây nữa ---
+order_logic.js:103 Số tiền thanh toán cuối cùng sau khi bỏ Chuột: 1056000 VND
+index.html:31 Live reload enabled.
+
+
+
+order_logic.js:53 --- Bắt đầu thêm sản phẩm lỗi vào đơn hàng ---
+order_logic.js:57 Đang thêm: Chuột lỗi số lượng...
+order_logic.js:17 Sản phẩm không hợp lệ!
+addItem @ order_logic.js:17
+(anonymous) @ order_logic.js:58
+(anonymous) @ order_logic.js:56
+order_logic.js:57 Đang thêm: Bàn phím lỗi giá...
+order_logic.js:17 Sản phẩm không hợp lệ!
+addItem @ order_logic.js:17
+(anonymous) @ order_logic.js:58
+(anonymous) @ order_logic.js:56
+order_logic.js:57 Đang thêm: Tai nghe siêu lỗi...
+order_logic.js:17 Sản phẩm không hợp lệ!
+addItem @ order_logic.js:17
+(anonymous) @ order_logic.js:58
+(anonymous) @ order_logic.js:56
+order_logic.js:61 
+--- Kiểm tra kết quả tính toán ---
+order_logic.js:62 Số lượng sản phẩm thực tế trong đơn hàng: 0
+order_logic.js:63 Tổng tiền thanh toán cuối cùng: 0 VND
+
